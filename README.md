@@ -1,18 +1,8 @@
 # Hello there I'm Raul!👋!
 
-<a target="_blank" href="https://www.linkedin.com/in/raul-leonardo-lopez-lizarraga-087b34202/">
+<a target="_blank" href="https://www.linkedin.com/in/raul-lopez-087b34202/">
   <img align="left" alt="LinkdeIN" width="22px" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a target="_blank" href="https://api.whatsapp.com/send?phone=6677860470">
-  <img align="left" alt="Whatsapp" width="22px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-
-<a target="_blank" href="https://www.instagram.com/ravllizarraga/">
-  <img align="left" alt="Instagram" width="22px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a target="_blank"  href="mailto:raul.leonardo.lopez96@gmail.com">
@@ -24,7 +14,7 @@
 ----
 Hi I'm Raúl, I'm a 24-year-old full stack web developer from Tijuana, Baja California, I like to be constantly learning new tools and languages to develop better and better web applications.
 
--  i'm a Software engIneer student at Universidade CNCI - and a technology enthusiast.
+-  i'm a Software Engineer and a technology enthusiast.
 
 - I dedicate my hobbies to studying new technologies, playing video games, playing guitar and exercising.
 
