@@ -12,7 +12,7 @@
 
 
 ----
-Hi I'm Raúl, I'm a 24-year-old full stack web developer from Tijuana, Baja California, I like to be constantly learning new tools and languages to develop better and better web applications.
+Hi I'm Raúl, I'm a full stack web developer from Baja California Mexico, I like to be constantly learning new tools and languages to develop better and better web applications.
 
 -  i'm a Software Engineer and a technology enthusiast.
 
